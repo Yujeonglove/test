@@ -1,0 +1,63 @@
+#result{
+    background-color: whitesmoke;
+    width: 90%;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.resultname{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.resultDesc, .resultDesc2{
+    font-size: 16px;
+    line-height: 160%;
+}
+
+#resultImg{
+    width: auto;
+}
+
+h1{
+    font-size: 35px;
+}
+
+*{
+    font-family: 'PFStardust', cursive;
+}
+
+@font-face {
+    font-family: 'PFStardust';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/PFStardust.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#button{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#resultImg2{
+    width: 90%;
+    border: 10px solid whitesmoke;
+    border-radius: 20px;
+}
+
+/*
+.button1, .button2{
+    background-color: #1a5632;
+    color: white;
+}
+*/
+
+
+/*
+.box{
+    height: fit-content;
+    width: fit-content;
+    background-color: lightgray;
+    border-radius: 25px;
+}
+*/
